@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @synakr aka Md Sayan Akram
 - 👀 I’m interested in DSA, Development and the emerging AI/ML
 - 🌱 I’m currently learning DSA and Web Development
-- 💞️ I’m looking to collaborate on any open source dev in near future 
+- 💞️ I’m looking to collaborate on any open source project
 - 📫 How to reach me: Just ping me on (https://www.linkedin.com/in/synakr )
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: Do you know your nose is always in you field of view?
